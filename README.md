@@ -10,6 +10,6 @@ b. type composer create-project --prefer-dist laravel/laravel (project name=>blo
 4. to run the project
 	php artisan serve =>( This command will start a development server at http://localhost:8000)
 **detail of project**
-
+1. Project consist of 
 
 
