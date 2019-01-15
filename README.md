@@ -1,5 +1,5 @@
 # code-laravel
-**Install laravelon Microsoft Windows steps:**
+**Install laravel on Microsoft Windows steps:**
    		Laravel utilizes Composer to manage its dependencies.So, before using Laravel	we should  make sure we have Composer installed on our machine	
 1. Installation of composer: https://getcomposer.org/ visit the website to download composer and follow the installation process
 2. To check of composer is installed or not :(for window)
